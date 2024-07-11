@@ -1,2 +1,2 @@
-# Fishing-in-the-gene-pool_Maiello-et-al.-2024
+# Fishing-in-the-gene-pool
 Code associated with paper
