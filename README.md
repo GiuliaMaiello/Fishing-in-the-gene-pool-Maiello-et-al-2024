@@ -1,7 +1,7 @@
 # Fishing-in-the-gene-pool-Maiello-et-al-2024
 
 ## Summary
-Code and files associated with the article titled 'Fishing in the gene-pool: implementing trawl-associated eDNA metaprobe for large scale monitoring of fish assemblages' published by Maiello et al. in Reviews in Fish Biology and Fisheries - DOI: 10.1007/s11160-024-09874-y
+Code and files associated with the article titled 'Fishing in the gene-pool: implementing trawl-associated eDNA metaprobe for large scale monitoring of fish assemblages' published by Maiello et al. in Reviews in Fish Biology and Fisheries - [DOI: 10.1007/s11160-024-09874-y](https://doi.org/10.1007/s11160-024-09874-y)
 
 Raw sequencing data and ngs files for demultiplexing can be accessed at https://doi.org/10.5061/dryad.s7h44j1g3.
 
