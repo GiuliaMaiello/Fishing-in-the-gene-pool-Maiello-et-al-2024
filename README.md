@@ -22,7 +22,7 @@ G) **TeleoDataset.csv**: Final OTU table for the Tele02 library.
 
 H) **ElasmoDataset.csv** : Final OTU table for the Elas02 library. 
 
-I) **Metabarcoding.csv** : Abundance metabarcoding data (combination of Elasmo and Teleo datasets). 
+I) **Metabarcoding.csv** : Abundance metabarcoding data (combination of Elas02 and Tele02 datasets). 
 
 J) **Species_Medits_2022_vertebrate.csv** : Medits catch data.
 
